@@ -8,7 +8,7 @@ You are expected to develop a jQuery plugin that creates the flow drawn as a wir
 
 This project is written in CSS, HTML, Jquery.
 
-To see a live demonstration, go to [)
+For a live demonstration, download the project's HTML, JavaScript, and CSS files, then simply double-click the HTML file to open it in your browser.
 
 ### Screenshot of the Demo
 ![{2BBE8730-147D-4776-9F83-2F5C437BEB80}](https://github.com/user-attachments/assets/383c2ae8-29a4-4ef0-9fdc-34908f4f199f)
